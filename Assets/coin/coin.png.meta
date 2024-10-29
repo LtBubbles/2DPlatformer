@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0dc2e1236a0a25048acc6a2181481337
+guid: c7ba4602b624f764099742ecdcb8137f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,13 +123,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: blink_0
+      name: coin_0
       rect:
         serializedVersion: 2
-        x: 95
-        y: 46
-        width: 144
-        height: 147
+        x: 34
+        y: 32
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eaf6265135cf4784084c255fea2dadc8
-      internalID: -256207901
+      spriteID: 4f70dbc71eda36444946510f200f8b88
+      internalID: -1007774637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blink_1
+      name: coin_1
       rect:
         serializedVersion: 2
-        x: 261
-        y: 53
-        width: 144
-        height: 147
+        x: 120
+        y: 32
+        width: 57
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1e0c39af65c72540b1e5b6dbc975cb9
-      internalID: 1807849450
+      spriteID: e527dfee8fb181c46a65bf5945a79484
+      internalID: 1643462356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blink_2
+      name: coin_2
       rect:
         serializedVersion: 2
-        x: 434
-        y: 53
-        width: 144
-        height: 147
+        x: 199
+        y: 32
+        width: 50
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,20 +179,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3bbf44587ab43174a94b5e466b75a9af
-      internalID: -640620460
+      spriteID: e03fd753bca03cf4e8a369e5b6052623
+      internalID: 619382656
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blink_3
+      name: coin_3
       rect:
         serializedVersion: 2
-        x: 607
-        y: 53
-        width: 143
-        height: 147
+        x: 271
+        y: 32
+        width: 44
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,20 +200,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a301ff1ec5f7bbe42b292f14f69e2548
-      internalID: -442816133
+      spriteID: 92a04b22f99639c47a88e1e800e8bb3d
+      internalID: -174472607
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blink_4
+      name: coin_4
       rect:
         serializedVersion: 2
-        x: 779
-        y: 53
-        width: 144
-        height: 147
+        x: 337
+        y: 32
+        width: 39
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21fb3c35aaeb5dc45a9df9c996bd5836
-      internalID: -415433144
+      spriteID: 65be0ba42f8c1f247956abb5c7bb80f5
+      internalID: -1247599917
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blink_5
+      name: coin_5
       rect:
         serializedVersion: 2
-        x: 952
-        y: 53
-        width: 144
-        height: 147
+        x: 396
+        y: 32
+        width: 33
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,20 +242,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3eef382be2dce74583b3782643264f5
-      internalID: -29408710
+      spriteID: ad62a0598fae02e4aa7403310ae81c00
+      internalID: -169463800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blink_6
+      name: coin_6
       rect:
         serializedVersion: 2
-        x: 1125
-        y: 53
-        width: 144
-        height: 147
+        x: 451
+        y: 32
+        width: 29
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,20 +263,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74046da0e8f51b14ab6567c120a45c8c
-      internalID: -791865043
+      spriteID: a8e3d4024ee30cc4899e2000d1223fd3
+      internalID: -1215718237
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blink_7
+      name: coin_7
       rect:
         serializedVersion: 2
-        x: 1298
-        y: 53
-        width: 143
-        height: 147
+        x: 502
+        y: 32
+        width: 23
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,20 +284,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13f11d702b4213748a397fa08f548b6b
-      internalID: 402632791
+      spriteID: db70bd52e47e4d84d8f0513dc9dbfbfd
+      internalID: -1683773006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blink_8
+      name: coin_8
       rect:
         serializedVersion: 2
-        x: 1470
-        y: 53
-        width: 144
-        height: 147
+        x: 547
+        y: 32
+        width: 16
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,20 +305,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9d116ea32f72ae4ba9751969f9344b5
-      internalID: 977656002
+      spriteID: c7ecc412d80ba814c965caf161411b89
+      internalID: 643543819
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blink_9
+      name: coin_9
       rect:
         serializedVersion: 2
-        x: 1643
-        y: 53
-        width: 144
-        height: 147
+        x: 585
+        y: 32
+        width: 23
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,20 +326,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b2ffd91355d82a4b8a87a611549cdc3
-      internalID: 1503352738
+      spriteID: 563333df9f009944496ca4d3924cbc36
+      internalID: -2089601323
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blink_10
+      name: coin_10
       rect:
         serializedVersion: 2
-        x: 1816
-        y: 53
-        width: 144
-        height: 147
+        x: 630
+        y: 32
+        width: 29
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,8 +347,113 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3290c8d32ddd414caf2a781624bb1c0
-      internalID: 411560544
+      spriteID: 948a9f5fd7cb8b74fa2b8c05d4cf9c50
+      internalID: 1248139414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_11
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 32
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fff192e46312840a8859e5bce6efe5
+      internalID: -199836759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_12
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 32
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6d8509e394a1e4aa4f419c58cdb9c0
+      internalID: -1526511128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_13
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 32
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3317d4e083858c64db9948d59c808b03
+      internalID: 1603840527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_14
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 32
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f3d0f83d5a0114b8c807ec32f8817a
+      internalID: 932715096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coin_15
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 32
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9940ead06cf948b4e96bf150f4e7e01f
+      internalID: 1279444906
       vertices: []
       indices: 
       edges: []
@@ -357,24 +462,29 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
+    internalID: 1537655665
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      blink_0: -256207901
-      blink_1: 1807849450
-      blink_10: 411560544
-      blink_2: -640620460
-      blink_3: -442816133
-      blink_4: -415433144
-      blink_5: -29408710
-      blink_6: -791865043
-      blink_7: 402632791
-      blink_8: 977656002
-      blink_9: 1503352738
+      coin_0: -1007774637
+      coin_1: 1643462356
+      coin_10: 1248139414
+      coin_11: -199836759
+      coin_12: -1526511128
+      coin_13: 1603840527
+      coin_14: 932715096
+      coin_15: 1279444906
+      coin_2: 619382656
+      coin_3: -174472607
+      coin_4: -1247599917
+      coin_5: -169463800
+      coin_6: -1215718237
+      coin_7: -1683773006
+      coin_8: 643543819
+      coin_9: -2089601323
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

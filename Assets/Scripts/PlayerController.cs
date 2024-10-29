@@ -11,7 +11,8 @@ public class NewBehaviourScript : MonoBehaviour
     public float airControlMax = 1.5f;
     Vector2 boxExtents;
     Animator animator;
-    
+    public AudioSource coinSound;
+
 
     // Start is called before the first frame update
     void Start()
@@ -31,6 +32,9 @@ public class NewBehaviourScript : MonoBehaviour
         animator.SetFloat("xspeed", xSpeed);
         float ySpeed = rigidBody.velocity.y;
         animator.SetFloat("yspeed", ySpeed);
+        float blinkVal = Random.Range(0.0f, 200.0f);
+        if (blinkVal < 1.0f)
+            animator.SetTrigger("BlinkTrigger");
     }
 
     void FixedUpdate()
@@ -64,7 +68,15 @@ public class NewBehaviourScript : MonoBehaviour
         }
 
         }
+    void OnTriggerEnter2D(Collider2D coll)
+    {
+        if (coll.gameObject.tag == "Coin")
+        {
+            Destroy(coll.gameObject);
+            coinSound.Play();
+        }
     }
+}
 
 
 
